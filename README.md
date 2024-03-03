@@ -9,7 +9,8 @@ This project undertakes a detailed analysis of road crash data in Victoria from 
 ### Exploratory Data Analysis (EDA)
 
 - **Objective**: To explore a dataset encompassing 27 variables, identifying initial patterns that correlate with fatality rates.
-- **Outcome**: Identification of potential predictors for more detailed statistical analysis.
+- **Outcome 1**: Identification of potential predictors for more detailed statistical analysis.
+- **Outcome 2**: Correct accident fatality classification rate of 63% on unseen data. 
 
 ### Statistical Modelling
 
